@@ -10,7 +10,9 @@ Even if such a moment comes, I will write TIL.
 
 ### format
 
+# YYmmdd
+
 ##### Subject name
-contents ...
+    contents
 
 fighting !!!
