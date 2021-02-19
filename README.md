@@ -8,7 +8,7 @@ Even if such a moment comes, I will write TIL.
 
 ( Also have to study English ... )
 
-### format
+### < format >
 
 # YYmmdd
 
